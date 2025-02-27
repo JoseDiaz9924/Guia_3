@@ -8,4 +8,4 @@ Analisis exploratorio de la base Accidentes-1
 
 El codigo que encuentran a continuacion contiene un analisis de la base accidentes-1 la cual contiene informacion relacionada con la situacion los accidentes de la ciudad de new york
 
-El codigo puede ser ejecutado en cualquier IDE de python de su preferencia basta con descargar el archivo CSV y establecer la ruta donde se encuentre descargada la base de datos
+El codigo puede ser ejecutado en cualquier IDE de python de su preferencia
